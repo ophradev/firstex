@@ -7,7 +7,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <MoralisProvider
       serverUrl='https://gqasdf4tkkiu.usemoralis.com:2053/server'
-      appId='TL0YJzCoVXgYv0fMKfzmgD52UaoaMllZI1DxTJWJ'
+      appId='Azs4FBUDoDcAIZ8rshgylhRzN3MO6t6bwYNj11Fo'
     >
       <GunProvider>
         <CoinMarketProvider>
